@@ -17,6 +17,21 @@
   }
 },
 {
+  "name": "Eaglercraft",
+  "icon": "https://styles.redditmedia.com/t5_60aj9d/styles/communityIcon_serayq82g91a1.jpg?format=pjpg&s=3262e0b1499369a43c9123d5610d8fbfa462062c",
+  "type": "game",
+  "data": {
+    "type": "IFrame",
+    "url": "https://egg.l5.ca/games/mbg",
+    "gallery": [
+      "https://styles.redditmedia.com/t5_60aj9d/styles/communityIcon_serayq82g91a1.jpg?format=pjpg&s=3262e0b1499369a43c9123d5610d8fbfa462062c",
+    ],
+    "desc": "Eaglercraft 1.8.8, minecraft in a web browser made by lax1dude",
+    "feat": "",
+    "invert": false
+  }
+},	
+{
   "name": "Marble Blast Platinum",
   "icon": "https://i.ibb.co/zNdGgqv/MBP.png",
   "type": "game",
