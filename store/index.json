@@ -17,6 +17,21 @@
   }
 },
 {
+  "name": "Eaglercraft",
+  "icon": "https://styles.redditmedia.com/t5_60aj9d/styles/communityIcon_serayq82g91a1.jpg?format=pjpg&s=3262e0b1499369a43c9123d5610d8fbfa462062c",
+  "type": "game",
+  "data": {
+    "type": "IFrame",
+    "url": "https://rykcbaoolnew.github.io/eagler-upated/",
+    "gallery": [
+      "https://styles.redditmedia.com/t5_60aj9d/styles/communityIcon_serayq82g91a1.jpg?format=pjpg&s=3262e0b1499369a43c9123d5610d8fbfa462062c",
+    ],
+    "desc": "Eaglercraft",
+    "feat": "Minecraft 1.8.8 in a web browser!",
+    "invert": false
+  }
+},
+{
   "name": "Marble Blast Platinum",
   "icon": "https://i.ibb.co/zNdGgqv/MBP.png",
   "type": "game",
